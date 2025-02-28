@@ -1,0 +1,5 @@
+2025/02/28 12:15:58 server.go:36: Hey Welcome!
+2025/02/28 12:15:58 server.go:37: initializing the Exam server
+2025/02/28 12:15:58 server.go:38: Starting server...
+2025/02/28 12:15:58 server.go:51: Server sarted runnning on : 6767
+2025/02/28 12:17:33 check.go:15: Server check 2025-02-28 12:17:33.500649198 +0000 UTC m=+94.679002094
